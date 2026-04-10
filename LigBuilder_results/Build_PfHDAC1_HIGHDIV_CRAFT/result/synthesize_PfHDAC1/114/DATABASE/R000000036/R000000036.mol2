@@ -1,0 +1,16 @@
+# Name:          Smol
+# Creation time: Thu Apr  9 21:15:06 2026
+
+
+@<TRIPOS>MOLECULE
+Smol:result/synthesize_PfHDAC1/114/DATABASE/R000000036/R000000036.mol2
+    2     1     1     1     1
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 A3          0.4614    0.4761    0.4601 H          1 <1>        0.000
+      2 X9          1.3015    1.1705    0.9103 Br         1 <1>        0.000
+@<TRIPOS>BOND
+     1    1    2 1  

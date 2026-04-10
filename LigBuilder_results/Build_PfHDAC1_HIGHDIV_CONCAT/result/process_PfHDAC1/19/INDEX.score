@@ -1,0 +1,2 @@
+result/process_PfHDAC1/19/000000001.mol2 Protein_1 Est 2.01 AEst 0.09 Score 4.39 AdjScore 4.80 AveScore 0.19 Stable 0.46 LogP 1.10 HB 1.00 MT 0.64 HSPC 1.95 VDW -268.65 BUMP 3.39 HM 3.10 RT 8.00 HM/HB 0.84 DeltaHM 0.90 Chemical -190.00 Match 4.99 Heavy    23 Weight   340 InnerVDW -2.58
+result/process_PfHDAC1/19/000000002.mol2 Protein_1 Est 2.48 AEst 0.23 Score 3.85 AdjScore 4.32 AveScore 0.35 Stable 0.64 LogP 0.34 HB 2.00 MT 0.00 HSPC 2.50 VDW -143.72 BUMP 4.88 HM 0.84 RT 2.00 HM/HB 0.18 DeltaHM 0.00 Chemical -150.00 Match 9.05 Heavy    11 Weight   166 InnerVDW -0.53

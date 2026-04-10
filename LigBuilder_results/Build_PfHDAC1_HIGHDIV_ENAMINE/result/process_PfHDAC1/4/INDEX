@@ -1,0 +1,67 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Thu Apr  9 17:00:12 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_PfHDAC1/4/000000001.mol2	C12H8N3O2SI     385	  3.81	 4.25	-6.61	 3.58	-160
+result/process_PfHDAC1/4/000000002.mol2	C15H14N2OI2     492	  5.32	 4.32	-0.17	 3.58	-20
+result/process_PfHDAC1/4/000000003.mol2	C15H14N2OI2     492	  5.32	 4.34	-0.63	 3.58	-20
+result/process_PfHDAC1/4/000000004.mol2	C12H9N3O3I2     497	  4.51	 4.21	-5.02	22.60	-189
+result/process_PfHDAC1/4/000000005.mol2	C12H9N3O3I2     497	  4.51	 4.14	-4.58	22.60	-189
+result/process_PfHDAC1/4/000000006.mol2	C12H9N3O3I2     497	  4.51	 4.20	-5.23	22.60	-190
+result/process_PfHDAC1/4/000000007.mol2	C10H12N2OI2     430	  3.09	 4.04	-3.96	 2.22	-150
+result/process_PfHDAC1/4/000000008.mol2	C10H12N2OI2     430	  3.09	 4.07	-3.42	 2.22	-150
+result/process_PfHDAC1/4/000000009.mol2	C10H12N2OI2     430	  3.09	 4.12	-3.73	 2.22	-150
+result/process_PfHDAC1/4/000000010.mol2	C10H12N2OI2     430	  3.09	 4.07	-3.52	 2.22	-150
+result/process_PfHDAC1/4/000000011.mol2	C10H12N2OI2     430	  3.09	 4.05	-3.47	 2.22	-150
+result/process_PfHDAC1/4/000000012.mol2	C10H12N2OI2     430	  3.09	 4.02	-3.32	 2.22	-150
+result/process_PfHDAC1/4/000000013.mol2	C11H13NOSI2     461	  4.40	 4.04	-1.97	 2.22	-152
+result/process_PfHDAC1/4/000000014.mol2	C11H13NOSI2     461	  4.40	 4.16	-1.84	 2.22	-150
+result/process_PfHDAC1/4/000000015.mol2	C11H13NOSI2     461	  4.40	 4.06	-3.79	 2.22	-150
+result/process_PfHDAC1/4/000000016.mol2	C11H13NOSI2     461	  4.40	 4.16	-1.84	 2.22	-150
+result/process_PfHDAC1/4/000000017.mol2	C11H13NOSI2     461	  4.40	 4.04	-1.97	 2.22	-152
+result/process_PfHDAC1/4/000000018.mol2	C15H14N2OI2     492	  5.32	 4.34	-0.63	 3.58	-20
+result/process_PfHDAC1/4/000000019.mol2	C15H14N2OI2     492	  5.32	 4.32	-0.17	 3.58	-20
+result/process_PfHDAC1/4/000000020.mol2	C10H12N2OI2     430	  3.09	 4.07	-3.42	 2.22	-150
+result/process_PfHDAC1/4/000000021.mol2	C10H12N2OI2     430	  3.09	 4.02	-3.32	 2.22	-150
+result/process_PfHDAC1/4/000000022.mol2	C10H12N2OI2     430	  3.09	 4.07	-3.52	 2.22	-150
+result/process_PfHDAC1/4/000000023.mol2	C10H12N2OI2     430	  3.09	 4.05	-3.47	 2.22	-150
+result/process_PfHDAC1/4/000000024.mol2	C10H12N2OI2     430	  3.09	 4.12	-3.73	 2.22	-150
+result/process_PfHDAC1/4/000000025.mol2	C10H12N2OI2     430	  3.09	 4.04	-3.96	 2.22	-150
+result/process_PfHDAC1/4/000000026.mol2	C11H13NOSI2     461	  4.40	 4.06	-3.79	 2.22	-150
+result/process_PfHDAC1/4/000000027.mol2	C12H16N2O2I2    474	  2.42	 4.22	-2.31	 3.58	-150
+result/process_PfHDAC1/4/000000028.mol2	C12H16N2OSI2    490	  3.80	 4.21	-2.06	 3.58	-178
+result/process_PfHDAC1/4/000000029.mol2	C13H16O2SI2     490	  4.82	 4.00	-0.97	 3.58	0
+result/process_PfHDAC1/4/000000030.mol2	C13H16O2SI2     490	  4.82	 4.22	-0.74	 3.58	0
+result/process_PfHDAC1/4/000000031.mol2	C13H16O2SI2     490	  4.82	 4.10	-1.83	 3.58	0
+result/process_PfHDAC1/4/000000032.mol2	C12H16N2OSI2    490	  4.17	 4.38	-0.74	 3.58	0
+result/process_PfHDAC1/4/000000033.mol2	C12H16N2OSI2    490	  4.17	 4.15	-1.29	 3.58	0
+result/process_PfHDAC1/4/000000034.mol2	C11H14N2O3I2    476	  4.29	 4.22	-5.29	16.20	-170
+result/process_PfHDAC1/4/000000035.mol2	C12H13NO4I2     489	  2.34	 4.48	-2.60	 2.35	-150
+result/process_PfHDAC1/4/000000036.mol2	C12H13NO4I2     489	  2.34	 4.74	-2.57	 2.35	-150
+result/process_PfHDAC1/4/000000037.mol2	C12H13NO4I2     489	  2.34	 4.40	-1.97	 2.35	-150
+result/process_PfHDAC1/4/000000038.mol2	C14H13N7O2      311	  0.28	 4.28	-1.14	 3.58	-120
+result/process_PfHDAC1/4/000000039.mol2	C14H13N7O2      311	  0.28	 4.67	-0.99	 3.58	-120
+result/process_PfHDAC1/4/000000040.mol2	C13H14N6OS      302	  1.03	 4.06	 1.62	23.60	0
+result/process_PfHDAC1/4/000000041.mol2	C12H17N3OS      251	  1.75	 4.32	 2.79	 2.22	-170
+result/process_PfHDAC1/4/000000042.mol2	C17H17N3O       279	  2.75	 4.09	-1.49	 3.58	-120
+result/process_PfHDAC1/4/000000043.mol2	C17H17N3O       279	  2.75	 4.08	-1.39	 3.58	-100
+result/process_PfHDAC1/4/000000044.mol2	C12H10N3O3SBr   356	  1.28	 4.79	 0.47	 3.58	-20
+result/process_PfHDAC1/4/000000045.mol2	C15H17N4OF      288	  1.73	 4.16	-0.78	 3.58	-20
+result/process_PfHDAC1/4/000000046.mol2	C15H17N4OF      288	  1.73	 4.36	-0.52	 3.58	-20
+result/process_PfHDAC1/4/000000047.mol2	C13H12N2O4PF    310	  1.49	 4.66	-1.24	 2.35	-20
+result/process_PfHDAC1/4/000000048.mol2	C15H13N2O4      285	  0.50	 4.17	-3.55	 4.81	-150
+result/process_PfHDAC1/4/000000049.mol2	C15H13N2O4      285	  0.50	 4.14	-2.80	 4.81	-150
+result/process_PfHDAC1/4/000000050.mol2	C15H13N2O4      285	  0.50	 4.04	-3.16	 4.81	-150
+result/process_PfHDAC1/4/000000051.mol2	C10H11N2O2F     210	  0.53	 4.04	 3.14	 3.58	-150
+result/process_PfHDAC1/4/000000052.mol2	C10H11N2O2F     210	  0.53	 4.16	 3.07	 3.58	-150

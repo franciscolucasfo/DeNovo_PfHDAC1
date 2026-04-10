@@ -1,0 +1,26 @@
+#*********************************************
+# Status Record Thu Apr  9 00:28:07 2026
+#*********************************************
+Max Score :   4.93 (Protein 1)
+Generated : 9
+Output Fail Diagnose : 5 Limited by MIN_PKD (Protein 1)
+Output Fail Diagnose : 2 Failed in Final Checking
+Output Fail Diagnose : 1 Limited by MIN_AVER_PKD (Protein 1)
+-----------     New Round     ----------------
+Max Score :   2.65 (Protein 1)
+Generated : 9
+-----------     New Round     ----------------
+Max Score :   4.75 (Protein 1)
+Generated : 9
+-----------     New Round     ----------------
+Max Score :   4.64 (Protein 1)
+Generated : 9
+#*********************************************
+# Status Record Thu Apr  9 00:54:15 2026
+#*********************************************
+#*********************************************
+# Status Record Thu Apr  9 01:09:10 2026
+#*********************************************
+#*********************************************
+# Status Record Thu Apr  9 01:09:10 2026
+#*********************************************

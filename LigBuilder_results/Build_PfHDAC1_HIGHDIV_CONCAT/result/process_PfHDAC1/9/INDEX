@@ -1,0 +1,32 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Thu Apr  9 00:55:16 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_PfHDAC1/9/000000001.mol2	C14H9N3OFBr     334	  2.85	 4.05	-7.31	15.40	-100
+result/process_PfHDAC1/9/000000002.mol2	C14H9N3OFBr     334	  2.85	 4.02	-7.28	15.40	-100
+result/process_PfHDAC1/9/000000003.mol2	C12H18NO3I      351	  1.54	 4.22	-3.97	 3.58	0
+result/process_PfHDAC1/9/000000004.mol2	C12H18NO3I      351	  1.54	 4.17	-2.32	 3.58	0
+result/process_PfHDAC1/9/000000005.mol2	C16H16N5O2S     342	  0.98	 4.41	-6.02	19.40	-140
+result/process_PfHDAC1/9/000000006.mol2	C12H18NO3I      351	  1.54	 4.17	-2.32	 3.58	0
+result/process_PfHDAC1/9/000000007.mol2	C12H18NO3I      351	  1.54	 4.22	-3.97	 3.58	0
+result/process_PfHDAC1/9/000000008.mol2	C11H11N2O6SI    426	  1.43	 4.33	-4.69	 3.72	-50
+result/process_PfHDAC1/9/000000009.mol2	C11H11N2O6SI    426	  1.43	 4.04	-4.52	 3.72	-50
+result/process_PfHDAC1/9/000000010.mol2	C12H18NO3I      351	  1.54	 4.17	-2.32	 3.58	0
+result/process_PfHDAC1/9/000000011.mol2	C12H18NO3I      351	  1.54	 4.22	-3.97	 3.58	0
+result/process_PfHDAC1/9/000000012.mol2	C11H17N2OI      320	  1.59	 4.20	-1.90	 2.22	0
+result/process_PfHDAC1/9/000000013.mol2	C11H18N3OI      335	  1.18	 4.13	-2.49	 2.22	-170
+result/process_PfHDAC1/9/000000014.mol2	C13H13N2O8SI    484	  0.91	 4.52	-2.73	 3.72	-200
+result/process_PfHDAC1/9/000000015.mol2	C13H13N2O8SI    484	  0.91	 4.75	-2.53	 3.72	-200
+result/process_PfHDAC1/9/000000016.mol2	C14H16N3O7SI    497	  1.55	 4.80	-1.97	 3.72	-170
+result/process_PfHDAC1/9/000000017.mol2	C14H16N3O7SI    497	  1.55	 4.88	-1.31	 3.72	-170

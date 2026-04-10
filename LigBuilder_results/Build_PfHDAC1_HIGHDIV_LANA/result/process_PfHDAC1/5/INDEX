@@ -1,0 +1,29 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Fri Apr 10 01:30:15 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_PfHDAC1/5/000000001.mol2	C5H7N3O2S       173	 -0.24	 4.01	 5.85	 2.22	-150
+result/process_PfHDAC1/5/000000002.mol2	C5H7N3O2S       173	 -0.24	 4.01	 5.85	 2.22	-150
+result/process_PfHDAC1/5/000000003.mol2	C6H8O3ClI       290	  1.20	 4.24	 3.54	 2.22	-150
+result/process_PfHDAC1/5/000000004.mol2	C5H7NO3ClI      291	  1.30	 4.24	 2.93	 2.22	-150
+result/process_PfHDAC1/5/000000005.mol2	C9H9N5OS        235	 -0.37	 4.56	 6.83	19.20	-150
+result/process_PfHDAC1/5/000000006.mol2	C8H12N4OS       212	  0.16	 4.65	 5.40	 5.09	-150
+result/process_PfHDAC1/5/000000007.mol2	C8H12N4OS       212	  0.16	 4.74	 5.39	 5.09	-150
+result/process_PfHDAC1/5/000000008.mol2	C8H12N4OS       212	  0.16	 4.58	 5.30	 5.09	-150
+result/process_PfHDAC1/5/000000009.mol2	C8H12N4OS       212	  0.16	 4.27	 5.19	 5.09	-150
+result/process_PfHDAC1/5/000000010.mol2	C6H11N9S        241	 -0.17	 4.17	 8.44	24.30	-170
+result/process_PfHDAC1/5/000000011.mol2	C6H11N9S        241	 -0.17	 4.23	 8.39	24.30	-170
+result/process_PfHDAC1/5/000000012.mol2	C6H11N9S        241	 -0.17	 4.07	 8.56	24.30	-170
+result/process_PfHDAC1/5/000000013.mol2	C6H11N9S        241	 -0.17	 4.32	 8.84	24.30	-170
+result/process_PfHDAC1/5/000000014.mol2	C6H11N9S        241	 -0.17	 4.16	 8.65	24.30	-170

@@ -1,0 +1,35 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Thu Apr  9 00:55:21 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_PfHDAC1/4/000000001.mol2	C17H15N4O2S     339	  4.30	 4.50	-7.79	 4.94	-190
+result/process_PfHDAC1/4/000000002.mol2	C8H9N3O4        211	  0.53	 4.42	 8.38	 2.22	-150
+result/process_PfHDAC1/4/000000003.mol2	C12H17NOS2      255	  1.83	 4.10	 4.64	 2.22	-150
+result/process_PfHDAC1/4/000000004.mol2	C15H20O3S2      312	  3.15	 4.10	 1.07	 3.72	-190
+result/process_PfHDAC1/4/000000005.mol2	C12H13N4O3SF    312	  1.50	 4.09	-5.24	 3.58	-60
+result/process_PfHDAC1/4/000000006.mol2	C8H9N3O4        211	  0.53	 4.42	 8.38	 2.22	-150
+result/process_PfHDAC1/4/000000007.mol2	C18H16N2O4      324	  1.95	 5.48	-2.53	 3.58	-120
+result/process_PfHDAC1/4/000000008.mol2	C18H16N2O4      324	  1.95	 4.66	-2.45	 3.58	-120
+result/process_PfHDAC1/4/000000009.mol2	C19H23N4O2      339	  1.41	 4.53	-0.95	 3.70	-100
+result/process_PfHDAC1/4/000000010.mol2	C17H15N2O2Br    359	  3.37	 4.20	-1.51	 5.09	-100
+result/process_PfHDAC1/4/000000011.mol2	C20H24N4O2      352	  1.57	 5.01	-2.10	 5.09	-160
+result/process_PfHDAC1/4/000000012.mol2	C13H20O2S2      272	  2.18	 4.48	 5.53	 2.22	-170
+result/process_PfHDAC1/4/000000013.mol2	C13H20O2S2      272	  2.18	 4.11	 5.34	 2.22	-170
+result/process_PfHDAC1/4/000000014.mol2	C11H15N5O3S2    329	  4.00	 4.06	-4.96	 3.58	-60
+result/process_PfHDAC1/4/000000015.mol2	C11H15N5O3S2    329	  4.00	 4.35	-5.05	 3.58	-60
+result/process_PfHDAC1/4/000000016.mol2	C11H15N5O3S2    329	  4.00	 4.57	-4.02	 3.58	-60
+result/process_PfHDAC1/4/000000017.mol2	C14H19N2O2S2    311	  1.83	 4.30	 0.42	24.60	-190
+result/process_PfHDAC1/4/000000018.mol2	C14H19N2O2S2    311	  1.83	 4.26	 0.79	24.60	-190
+result/process_PfHDAC1/4/000000019.mol2	C14H19N2O2S2    311	  1.83	 4.21	 0.61	24.60	-190
+result/process_PfHDAC1/4/000000020.mol2	C9H18N3OS2      248	  0.89	 4.15	 7.12	 2.22	-150

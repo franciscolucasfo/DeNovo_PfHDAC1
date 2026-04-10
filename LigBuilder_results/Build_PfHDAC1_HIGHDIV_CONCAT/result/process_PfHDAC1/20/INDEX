@@ -1,0 +1,26 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Thu Apr  9 00:55:25 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_PfHDAC1/20/000000001.mol2	C7H15N5S2       233	  0.02	 4.06	-6.65	 2.22	-150
+result/process_PfHDAC1/20/000000002.mol2	C9H12NOBr       230	  1.56	 4.25	-8.48	 2.22	-190
+result/process_PfHDAC1/20/000000003.mol2	C10H13N2O2Br    273	  1.13	 4.00	-5.14	 2.22	-190
+result/process_PfHDAC1/20/000000004.mol2	C11H12N4SFBr    331	  3.02	 4.14	-8.04	20.20	-190
+result/process_PfHDAC1/20/000000005.mol2	C13H12N4O2Br2   416	  2.82	 4.31	-8.77	 3.58	-40
+result/process_PfHDAC1/20/000000006.mol2	C13H12N4O2Br2   416	  2.82	 4.36	-9.21	 3.58	-60
+result/process_PfHDAC1/20/000000007.mol2	C13H12N4O2Br2   416	  2.82	 4.72	-8.49	 3.58	-40
+result/process_PfHDAC1/20/000000008.mol2	C13H12N4O2Br2   416	  2.82	 4.54	-9.83	 3.58	-60
+result/process_PfHDAC1/20/000000009.mol2	C13H12N4O2Br2   416	  2.82	 4.33	-9.43	 3.58	-40
+result/process_PfHDAC1/20/000000010.mol2	C13H10N2O3Br2   402	  3.20	 4.13	-9.90	 3.58	-40
+result/process_PfHDAC1/20/000000011.mol2	C13H10N2O3Br2   402	  3.20	 4.02	-10.81	 3.58	-60

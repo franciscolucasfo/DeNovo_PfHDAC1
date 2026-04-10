@@ -1,0 +1,44 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Thu Apr  9 00:55:11 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_PfHDAC1/11/000000001.mol2	C13H17N4O3      277	 -0.33	 4.21	 1.26	 3.72	-150
+result/process_PfHDAC1/11/000000002.mol2	C13H17N4O3      277	 -0.33	 4.21	 1.26	 3.72	-150
+result/process_PfHDAC1/11/000000003.mol2	C13H17N5O3      291	  0.59	 4.09	-0.03	 3.58	-170
+result/process_PfHDAC1/11/000000004.mol2	C9H7N2O3Cl      226	  2.01	 4.05	 6.65	15.90	-150
+result/process_PfHDAC1/11/000000005.mol2	C11H12N2O2Cl    239	  2.03	 5.27	 5.42	 2.22	-170
+result/process_PfHDAC1/11/000000006.mol2	C11H12N2O2Cl    239	  2.03	 5.50	 5.08	 2.22	-170
+result/process_PfHDAC1/11/000000007.mol2	C11H12N2O2Cl    239	  2.03	 5.20	 4.25	 2.22	-170
+result/process_PfHDAC1/11/000000008.mol2	C11H12N2O2Cl    239	  2.03	 4.48	 3.88	 2.22	-170
+result/process_PfHDAC1/11/000000009.mol2	C11H13NO2Cl     226	  0.95	 4.01	 5.39	12.30	-150
+result/process_PfHDAC1/11/000000010.mol2	C11H13NO2Cl     226	  0.95	 4.14	 5.74	12.30	-150
+result/process_PfHDAC1/11/000000011.mol2	C9H9N3O2Cl      226	  1.12	 5.20	 5.61	16.10	-150
+result/process_PfHDAC1/11/000000012.mol2	C9H9N3O2Cl      226	  1.12	 4.84	 5.49	16.10	-150
+result/process_PfHDAC1/11/000000013.mol2	C9H9N3O2Cl      226	  1.12	 4.78	 5.69	16.10	-150
+result/process_PfHDAC1/11/000000014.mol2	C9H9N3O2Cl      226	  1.12	 5.24	 6.14	16.10	-150
+result/process_PfHDAC1/11/000000015.mol2	C9H9N3O2Cl      226	  1.12	 4.83	 5.95	16.10	-150
+result/process_PfHDAC1/11/000000016.mol2	C9H9N3O2Cl      226	  1.12	 4.70	 6.30	16.10	-150
+result/process_PfHDAC1/11/000000017.mol2	C10H10N2OSCl    241	  1.83	 4.16	 5.85	16.00	-150
+result/process_PfHDAC1/11/000000018.mol2	C10H10N2OSCl    241	  1.83	 4.67	 5.46	16.00	-150
+result/process_PfHDAC1/11/000000019.mol2	C10H10N2OSCl    241	  1.83	 4.77	 5.01	16.00	-150
+result/process_PfHDAC1/11/000000020.mol2	C12H8N3O3Cl     277	  1.17	 4.24	 6.88	 3.58	0
+result/process_PfHDAC1/11/000000021.mol2	C12H12N2OCl     235	  1.77	 4.41	 5.80	10.70	-150
+result/process_PfHDAC1/11/000000022.mol2	C10H9N2O2SCl    256	  1.65	 4.38	 5.20	 2.22	-150
+result/process_PfHDAC1/11/000000023.mol2	C10H9N2O2SCl    256	  1.65	 4.56	 4.71	 2.22	-150
+result/process_PfHDAC1/11/000000024.mol2	C10H9N2O2SCl    256	  1.65	 4.50	 4.67	 2.22	-150
+result/process_PfHDAC1/11/000000025.mol2	C8H10NO3Cl      203	  0.31	 4.05	 4.81	 2.35	-150
+result/process_PfHDAC1/11/000000026.mol2	C7H7O3Cl        174	  1.02	 4.31	 5.76	 1.11	0
+result/process_PfHDAC1/11/000000027.mol2	C7H7O3Cl        174	  1.02	 4.26	 5.63	 1.11	0
+result/process_PfHDAC1/11/000000028.mol2	C7H7O3Cl        174	  1.02	 4.15	 5.79	 1.11	0
+result/process_PfHDAC1/11/000000029.mol2	C7H7O3Cl        174	  1.02	 4.29	 5.89	 1.11	0

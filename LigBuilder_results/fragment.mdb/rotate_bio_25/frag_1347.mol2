@@ -1,0 +1,43 @@
+#      Rotatable Fragment
+#      Build by LigBuilder V3 User
+#
+# Name:          402
+# Creation time: Thu Oct  3 21:13:11 2019
+
+
+@<TRIPOS>MOLECULE
+402
+    4     3     1     1     1
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1          0.0534   -0.1651    0.3265 C.1        1 <1>        0.000
+      2 N1         -0.3319   -0.4168   -0.7513 N.2        1 <1>        0.000
+      3 S1          0.5759    0.1767    1.7891 S.2        1 <1>        0.000
+      4 H1          0.4172   -0.8003   -1.3382 H.spc      1 <1>        0.000
+@<TRIPOS>BOND
+     1    1    2 2  
+     2    1    3 2  
+     3    2    4 1  
+# Name:          402 -- energy: -0.047541
+# Creation time: Thu Oct  3 21:13:11 2019
+
+
+@<TRIPOS>MOLECULE
+402 -- energy: -0.047541
+    4     3     1     1     1
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 C1          0.0534   -0.1651    0.3265 C.1        1 <1>        0.000
+      2 N1         -0.3319   -0.4168   -0.7513 N.2        1 <1>        0.000
+      3 S1          0.5759    0.1767    1.7891 S.2        1 <1>        0.000
+      4 H1          0.4172   -0.8003   -1.3382 H.spc      1 <1>        0.000
+@<TRIPOS>BOND
+     1    1    2 2  
+     2    1    3 2  
+     3    2    4 1  

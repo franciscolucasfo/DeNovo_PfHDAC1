@@ -1,0 +1,39 @@
+Id	Activity	Molecule Number
+1	YES		3
+2	YES		31
+3	YES		6
+4	YES		52
+5	YES		34
+6	YES		0
+7	YES		1
+8	YES		0
+9	YES		7
+10	YES		4
+11	YES		0
+12	YES		1
+13	YES		15
+14	YES		10
+15	YES		6
+16	YES		11
+17	YES		49
+18	YES		27
+19	YES		36
+20	YES		3
+21	YES		93
+22	YES		9
+23	YES		52
+24	YES		190
+25	YES		9
+26	YES		6
+27	YES		4
+28	YES		17
+29	YES		350
+30	YES		0
+================================= Design Status ====================================
+Output Number : 1026
+Maximal Binding Score Reached :   6.48 (Protein 1)
+================================ Output Diagnose ===================================
+Limited by MIN_PKD (Protein 1) : 94%
+Failed in Final Checking : 2%
+Limited by MIN_AVER_PKD (Protein 1) : 1%
+Limited by MIN_ACCEPTOR : 0%

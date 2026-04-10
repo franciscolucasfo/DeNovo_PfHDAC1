@@ -1,0 +1,18 @@
+#
+#  Reaction log file
+#  Author: LigBuilder V3 User_Diana
+#  Creation time: Fri Apr 10 15:53:46 2026
+#  Format:
+#  QueryMoleculeId/Cost/SynthesizeId/ReactantId1/ReactantId2/ReactantId3.....
+#  Id prefix:
+#  Q --- Query Molecule
+#  M --- Material
+#  R --- Reactant
+#
+Directory      result/synthesize_PfHDAC1/162/DATABASE/
+#
+Q000000001/Analysis Failed
+Q000000002/Analysis Failed
+Q000000003/Analysis Failed
+Q000000004/Analysis Failed
+<NEXT>

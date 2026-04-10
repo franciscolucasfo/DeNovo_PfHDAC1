@@ -1,0 +1,30 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Thu Apr  9 17:00:19 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_PfHDAC1/13/000000001.mol2	C14H13N5OS      299	  0.25	 4.18	 1.02	 3.58	-190
+result/process_PfHDAC1/13/000000002.mol2	C15H13N3OSF2    321	  1.88	 4.65	 3.12	21.90	-150
+result/process_PfHDAC1/13/000000003.mol2	C15H13N3OSF2    321	  1.88	 4.60	 2.84	21.90	-150
+result/process_PfHDAC1/13/000000004.mol2	C11H11N5O2S     277	 -0.26	 4.09	 4.30	22.50	-150
+result/process_PfHDAC1/13/000000005.mol2	C11H11N5O2S     277	 -0.26	 4.00	 4.31	22.50	-150
+result/process_PfHDAC1/13/000000006.mol2	C11H11N5O2S     277	 -0.26	 4.08	 4.39	22.50	-150
+result/process_PfHDAC1/13/000000007.mol2	C11H11N5O2S     277	 -0.26	 4.12	 4.16	22.50	-150
+result/process_PfHDAC1/13/000000008.mol2	C14H15N3O2S     289	  0.23	 4.84	 3.89	16.10	-150
+result/process_PfHDAC1/13/000000009.mol2	C14H15N3O2S     289	  0.23	 4.98	 3.44	16.10	-150
+result/process_PfHDAC1/13/000000010.mol2	C14H15N3O2S     289	  0.23	 4.57	 2.85	16.10	-150
+result/process_PfHDAC1/13/000000011.mol2	C14H15N3O2S     289	  0.23	 4.05	 1.65	16.10	-150
+result/process_PfHDAC1/13/000000012.mol2	C11H17N6S       265	  0.68	 4.23	-0.23	 3.58	-150
+result/process_PfHDAC1/13/000000013.mol2	C11H17N6S       265	  0.68	 4.60	-0.03	 3.58	-150
+result/process_PfHDAC1/13/000000014.mol2	C11H17N6S       265	  0.68	 4.24	 0.06	 3.58	-150
+result/process_PfHDAC1/13/000000015.mol2	C11H17N6S       265	  0.68	 4.18	 0.29	 3.58	-150

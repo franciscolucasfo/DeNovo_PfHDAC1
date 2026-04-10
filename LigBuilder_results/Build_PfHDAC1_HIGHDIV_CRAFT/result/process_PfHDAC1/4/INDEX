@@ -1,0 +1,57 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Thu Apr  9 21:10:42 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_PfHDAC1/4/000000001.mol2	C6H10N4S        170	  1.12	 4.22	-2.92	 2.22	-150
+result/process_PfHDAC1/4/000000002.mol2	C6H10N4S        170	  1.12	 4.18	-3.64	 2.22	-150
+result/process_PfHDAC1/4/000000003.mol2	C6H10N4S        170	  1.12	 4.19	-3.41	 2.22	-150
+result/process_PfHDAC1/4/000000004.mol2	C6H10N4S        170	  1.12	 4.07	-2.41	 2.22	-150
+result/process_PfHDAC1/4/000000005.mol2	C6H10N4S        170	  1.12	 4.17	-2.66	 2.22	-150
+result/process_PfHDAC1/4/000000006.mol2	C9H18N6O        226	  0.20	 4.04	-4.74	 5.09	-150
+result/process_PfHDAC1/4/000000007.mol2	C10H14N6O3      266	  0.23	 4.11	-5.67	24.70	-150
+result/process_PfHDAC1/4/000000008.mol2	C7H15N5OS2      249	  0.57	 4.11	-2.35	20.60	-150
+result/process_PfHDAC1/4/000000009.mol2	C9H12N4         176	  0.63	 4.04	 2.01	17.10	-150
+result/process_PfHDAC1/4/000000010.mol2	C9H12N4         176	  0.63	 4.51	 1.80	17.10	-150
+result/process_PfHDAC1/4/000000011.mol2	C9H10N6O2       234	 -0.07	 4.10	 0.38	 4.81	-150
+result/process_PfHDAC1/4/000000012.mol2	C9H10N6O2       234	 -0.07	 4.29	-0.94	 4.81	-150
+result/process_PfHDAC1/4/000000013.mol2	C9H10N6O2       234	 -0.07	 4.64	 0.57	 4.81	-150
+result/process_PfHDAC1/4/000000014.mol2	C9H10N6O2       234	 -0.07	 4.73	 1.34	 4.81	-150
+result/process_PfHDAC1/4/000000015.mol2	C9H10N6O2       234	 -0.07	 4.65	 1.40	 4.81	-150
+result/process_PfHDAC1/4/000000016.mol2	C9H10N6O2       234	 -0.07	 4.43	 0.99	 4.81	-150
+result/process_PfHDAC1/4/000000017.mol2	C9H10N6O2       234	 -0.07	 4.35	 1.79	 4.81	-150
+result/process_PfHDAC1/4/000000018.mol2	C9H10N6O2       234	 -0.07	 4.27	 0.65	 4.81	-150
+result/process_PfHDAC1/4/000000019.mol2	C9H10N6O2       234	 -0.07	 4.28	 0.77	 4.81	-150
+result/process_PfHDAC1/4/000000020.mol2	C9H10N6O2       234	 -0.07	 4.44	 0.36	 4.81	-150
+result/process_PfHDAC1/4/000000021.mol2	C9H10N6O2       234	 -0.07	 4.43	-1.07	 4.81	-150
+result/process_PfHDAC1/4/000000022.mol2	C9H10N6O2       234	 -0.07	 4.48	-0.53	 4.81	-150
+result/process_PfHDAC1/4/000000023.mol2	C9H10N6O2       234	 -0.07	 4.19	 0.45	 4.81	-150
+result/process_PfHDAC1/4/000000024.mol2	C10H19N3OS      229	  2.81	 4.10	-6.19	 3.58	-190
+result/process_PfHDAC1/4/000000025.mol2	C10H11N5O5      281	  1.52	 4.37	-5.86	 5.08	-170
+result/process_PfHDAC1/4/000000026.mol2	C10H11N5O5      281	  1.52	 4.33	-5.94	 5.08	-150
+result/process_PfHDAC1/4/000000027.mol2	C10H11N5O5      281	  1.52	 4.26	-5.52	 5.08	-150
+result/process_PfHDAC1/4/000000028.mol2	C9H11N5O2S      253	  1.66	 4.08	-5.46	 3.58	-150
+result/process_PfHDAC1/4/000000029.mol2	C9H11N5O2S      253	  1.66	 4.07	-5.34	 3.58	-150
+result/process_PfHDAC1/4/000000030.mol2	C9H9N2O3SF      244	  0.92	 4.03	 5.95	16.80	-150
+result/process_PfHDAC1/4/000000031.mol2	C8H15NO3S       205	  0.25	 4.14	 5.68	 2.22	-150
+result/process_PfHDAC1/4/000000032.mol2	C10H14N2O6      258	 -0.07	 4.00	 5.54	 3.70	-150
+result/process_PfHDAC1/4/000000033.mol2	C10H14N2O6      258	 -0.07	 4.04	 4.35	 3.70	-150
+result/process_PfHDAC1/4/000000034.mol2	C11H10N4O4S     294	  0.89	 4.11	-6.39	 3.58	-60
+result/process_PfHDAC1/4/000000035.mol2	C10H13N3O2      207	  0.60	 4.23	 7.20	 2.22	-150
+result/process_PfHDAC1/4/000000036.mol2	C10H13N3O2      207	  0.60	 4.73	 7.11	 2.22	-150
+result/process_PfHDAC1/4/000000037.mol2	C10H13N3O2      207	  0.60	 4.20	 6.60	 2.22	-150
+result/process_PfHDAC1/4/000000038.mol2	C10H11NO4       209	  0.42	 4.87	 7.48	 3.33	-150
+result/process_PfHDAC1/4/000000039.mol2	C10H11NO4       209	  0.42	 4.66	 7.72	 3.33	-150
+result/process_PfHDAC1/4/000000040.mol2	C10H11NO4       209	  0.42	 4.12	 8.15	 3.33	-150
+result/process_PfHDAC1/4/000000041.mol2	C15H16N2O4Cl2   358	  2.13	 4.90	 2.18	21.30	-190
+result/process_PfHDAC1/4/000000042.mol2	C15H16N2O4Cl2   358	  2.13	 4.29	 0.74	21.30	-190

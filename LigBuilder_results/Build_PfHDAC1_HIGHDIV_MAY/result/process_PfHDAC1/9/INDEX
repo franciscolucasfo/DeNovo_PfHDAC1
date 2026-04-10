@@ -1,0 +1,47 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Fri Apr 10 15:48:32 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_PfHDAC1/9/000000001.mol2	C12H13N5O5      307	 -0.22	 4.62	-3.80	 2.22	-170
+result/process_PfHDAC1/9/000000002.mol2	C12H13N5O5      307	 -0.22	 4.63	-4.35	 2.22	-170
+result/process_PfHDAC1/9/000000003.mol2	C12H13N5O5      307	 -0.22	 4.57	-4.00	 2.22	-170
+result/process_PfHDAC1/9/000000004.mol2	C9H11N5OS2      269	  0.60	 4.59	-0.46	23.40	-150
+result/process_PfHDAC1/9/000000005.mol2	C9H11N5OS2      269	  0.60	 4.15	-0.80	23.40	-150
+result/process_PfHDAC1/9/000000006.mol2	C9H11N5OS2      269	  0.60	 4.16	-0.60	23.40	-150
+result/process_PfHDAC1/9/000000007.mol2	C9H11N5OS2      269	  0.60	 4.02	 0.28	23.40	-150
+result/process_PfHDAC1/9/000000008.mol2	C9H11N5OS2      269	  0.60	 4.16	 0.73	23.40	-150
+result/process_PfHDAC1/9/000000009.mol2	C11H13N3OS      235	  1.03	 4.08	-0.80	 2.22	-150
+result/process_PfHDAC1/9/000000010.mol2	C14H15N3O3S     305	  1.54	 4.22	-0.33	21.60	-170
+result/process_PfHDAC1/9/000000011.mol2	C11H13N3OS2     267	  1.40	 4.10	-3.42	 2.22	-170
+result/process_PfHDAC1/9/000000012.mol2	C11H13N3OS2     267	  1.40	 4.06	-2.89	 2.22	-170
+result/process_PfHDAC1/9/000000013.mol2	C12H12N3O3S     278	  0.20	 4.03	-1.94	 3.58	-150
+result/process_PfHDAC1/9/000000014.mol2	C12H12N3O3S     278	  0.20	 4.23	-2.25	 3.58	-150
+result/process_PfHDAC1/9/000000015.mol2	C11H11N5O2S     277	  0.12	 4.09	-0.17	 3.58	-150
+result/process_PfHDAC1/9/000000016.mol2	C11H11N5O2S     277	  0.12	 4.09	-0.12	 3.58	-150
+result/process_PfHDAC1/9/000000017.mol2	C11H11N5O2S     277	  0.12	 4.05	 0.05	 3.58	-150
+result/process_PfHDAC1/9/000000018.mol2	C11H11N5O2S     277	  0.12	 4.06	-0.30	 3.58	-150
+result/process_PfHDAC1/9/000000019.mol2	C11H11N5O2S     277	  0.12	 4.05	-0.44	 3.58	-150
+result/process_PfHDAC1/9/000000020.mol2	C14H14N4O2      270	  1.22	 4.27	-0.27	 3.58	-150
+result/process_PfHDAC1/9/000000021.mol2	C14H14N4O2      270	  1.22	 4.26	-0.30	 3.58	-150
+result/process_PfHDAC1/9/000000022.mol2	C15H18N5O4Cl    367	  0.64	 4.81	-2.20	 3.58	-190
+result/process_PfHDAC1/9/000000023.mol2	C13H14N4O2SBr2  450	  2.48	 4.27	-5.11	 3.58	-150
+result/process_PfHDAC1/9/000000024.mol2	C13H15N4O3SBr   387	  0.67	 4.07	-5.11	 3.58	-150
+result/process_PfHDAC1/9/000000025.mol2	C6H8N6OS        212	 -0.01	 4.02	 1.30	21.00	-150
+result/process_PfHDAC1/9/000000026.mol2	C12H14N4O3S     294	  0.55	 4.20	-3.26	 2.35	-190
+result/process_PfHDAC1/9/000000027.mol2	C13H17N3OS2     295	  1.75	 4.19	-1.68	 3.58	-150
+result/process_PfHDAC1/9/000000028.mol2	C13H17N3O2S     279	  1.36	 4.10	-3.53	 2.22	-190
+result/process_PfHDAC1/9/000000029.mol2	C13H17N3O2S     279	  1.36	 4.08	-2.66	 2.22	-190
+result/process_PfHDAC1/9/000000030.mol2	C13H17N3O2S     279	  1.36	 4.09	-3.39	 2.22	-190
+result/process_PfHDAC1/9/000000031.mol2	C13H14N4O2SBr2  450	  2.14	 4.04	-6.67	 3.58	-20
+result/process_PfHDAC1/9/000000032.mol2	C13H14N4O2SBr2  450	  2.14	 4.04	-6.97	 3.58	-20

@@ -1,0 +1,36 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Thu Apr  9 00:55:06 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_PfHDAC1/18/000000001.mol2	C14H15N3O2SClI  451	  3.00	 4.08	-0.05	 5.09	-80
+result/process_PfHDAC1/18/000000002.mol2	C14H15N3O2SClI  451	  3.00	 4.12	-0.17	 5.09	-60
+result/process_PfHDAC1/18/000000003.mol2	C15H17N3O3SClI  481	  2.22	 4.52	 0.76	 5.09	-60
+result/process_PfHDAC1/18/000000004.mol2	C15H17N3O3SClI  481	  2.22	 4.46	 0.68	 5.09	-60
+result/process_PfHDAC1/18/000000005.mol2	C15H17N3O3SClI  481	  2.22	 4.55	 0.69	 5.09	-60
+result/process_PfHDAC1/18/000000006.mol2	C15H17N3O3SClI  481	  2.22	 4.52	 1.00	 5.09	-60
+result/process_PfHDAC1/18/000000007.mol2	C15H17N3O3SClI  481	  2.22	 4.75	 1.05	 5.09	-60
+result/process_PfHDAC1/18/000000008.mol2	C15H19N4O2SClI  481	  2.15	 4.56	 0.88	 5.09	-60
+result/process_PfHDAC1/18/000000009.mol2	C15H19N4O2SClI  481	  2.15	 4.57	 0.56	 5.09	-60
+result/process_PfHDAC1/18/000000010.mol2	C15H19N4O2SClI  481	  2.15	 4.53	 0.72	 5.09	-60
+result/process_PfHDAC1/18/000000011.mol2	C15H19N4O2SClI  481	  2.15	 4.44	 0.81	 5.09	-60
+result/process_PfHDAC1/18/000000012.mol2	C12H20N2O2S     256	  0.88	 4.04	-1.80	 2.22	-60
+result/process_PfHDAC1/18/000000013.mol2	C9H15N4OCl      230	  0.39	 4.21	-3.80	17.50	-190
+result/process_PfHDAC1/18/000000014.mol2	C9H15N4OCl      230	  0.39	 4.20	-4.14	17.50	-190
+result/process_PfHDAC1/18/000000015.mol2	C14H15N3S       257	  1.90	 4.74	 0.69	18.80	0
+result/process_PfHDAC1/18/000000016.mol2	C14H15N3S       257	  1.90	 4.75	 0.86	18.80	0
+result/process_PfHDAC1/18/000000017.mol2	C14H15N3S       257	  1.90	 4.87	 1.08	18.80	-20
+result/process_PfHDAC1/18/000000018.mol2	C12H17N3O2S     267	  0.46	 4.26	 1.85	 3.58	-80
+result/process_PfHDAC1/18/000000019.mol2	C8H10N4OS2      242	  1.02	 4.11	 2.81	 2.22	-170
+result/process_PfHDAC1/18/000000020.mol2	C7H12N5O        182	  0.99	 4.24	 1.82	17.00	-80
+result/process_PfHDAC1/18/000000021.mol2	C7H12N5O        182	  0.99	 4.11	 2.23	17.00	-80

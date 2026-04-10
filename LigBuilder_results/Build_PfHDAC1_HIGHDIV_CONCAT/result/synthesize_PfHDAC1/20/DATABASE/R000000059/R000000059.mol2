@@ -1,0 +1,27 @@
+# Name:          Smol
+# Creation time: Thu Apr  9 00:57:46 2026
+
+
+@<TRIPOS>MOLECULE
+Smol:result/synthesize_PfHDAC1/20/DATABASE/R000000059/R000000059.mol2
+    7     7     1     1     1
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 A1          0.2402    0.6482    0.7284 C.ar       1 <1>        0.000
+      2 C4          1.4579    0.6203    0.8767 C.ar       1 <1>        0.000
+      3 C4          1.4862    1.7945    1.5395 C.ar       1 <1>        0.000
+      4 C4          1.8837    1.6637    1.8704 C.ar       1 <1>        0.000
+      5 C4          2.1260    2.1891    2.9090 C.ar       1 <1>        0.000
+      6 C4          3.4390    3.1506    2.8205 C.ar       1 <1>        0.000
+      7 X5          3.3058    3.9309    3.2687 H          1 <1>        0.000
+@<TRIPOS>BOND
+     1    6    1 ar 
+     2    1    2 ar 
+     3    2    3 ar 
+     4    3    4 ar 
+     5    4    5 ar 
+     6    5    6 ar 
+     7    1    7 1  

@@ -1,0 +1,25 @@
+#*********************************************
+# Status Record Thu Apr  9 20:35:16 2026
+#*********************************************
+Max Score :   5.25 (Protein 1)
+Generated : 92
+Output Fail Diagnose : 1 Limited by MIN_ACCEPTOR
+Output Fail Diagnose : 4 Limited by MIN_PKD (Protein 1)
+-----------     New Round     ----------------
+Max Score :   3.12 (Protein 1)
+Generated : 92
+-----------     New Round     ----------------
+Max Score :   5.79 (Protein 1)
+Generated : 92
+-----------     New Round     ----------------
+Max Score :   5.10 (Protein 1)
+Generated : 92
+#*********************************************
+# Status Record Thu Apr  9 21:09:17 2026
+#*********************************************
+#*********************************************
+# Status Record Thu Apr  9 21:21:03 2026
+#*********************************************
+#*********************************************
+# Status Record Thu Apr  9 21:21:03 2026
+#*********************************************

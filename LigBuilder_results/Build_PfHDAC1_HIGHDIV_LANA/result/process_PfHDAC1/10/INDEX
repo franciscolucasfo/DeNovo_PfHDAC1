@@ -1,0 +1,49 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Fri Apr 10 01:30:15 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_PfHDAC1/10/000000001.mol2	C14H12N3O4Cl    321	  1.70	 4.07	-5.82	23.00	-160
+result/process_PfHDAC1/10/000000002.mol2	C14H12N3O4Cl    321	  1.70	 5.07	-5.73	23.00	-160
+result/process_PfHDAC1/10/000000003.mol2	C14H12N3O4Cl    321	  1.70	 4.59	-5.43	23.00	-180
+result/process_PfHDAC1/10/000000004.mol2	C14H11N3O5      301	  1.68	 4.04	-7.96	 3.58	-60
+result/process_PfHDAC1/10/000000005.mol2	C14H11N3O5      301	  1.68	 4.09	-7.62	 3.58	-60
+result/process_PfHDAC1/10/000000006.mol2	C11H13N2O2      205	  0.10	 4.01	-1.58	 2.22	0
+result/process_PfHDAC1/10/000000007.mol2	C5H8N4Br        204	 -0.39	 4.20	 5.43	 1.00	-150
+result/process_PfHDAC1/10/000000008.mol2	C5H8N4Br        204	 -0.39	 4.20	 5.43	 1.00	-150
+result/process_PfHDAC1/10/000000009.mol2	C8H15N3OF       188	  1.21	 4.10	 0.32	 3.58	-150
+result/process_PfHDAC1/10/000000010.mol2	C8H15N3OF       188	  1.21	 4.04	-0.35	 3.58	-150
+result/process_PfHDAC1/10/000000011.mol2	C8H15N3OF       188	  1.21	 4.03	-0.17	 3.58	-150
+result/process_PfHDAC1/10/000000012.mol2	C8H15N3OF       188	  1.21	 4.18	 0.19	 3.58	-150
+result/process_PfHDAC1/10/000000013.mol2	C8H15N3OF       188	  1.21	 4.03	-0.68	 3.58	-150
+result/process_PfHDAC1/10/000000014.mol2	C8H15N3OF       188	  1.21	 4.03	-1.14	 3.58	-150
+result/process_PfHDAC1/10/000000015.mol2	C8H15N3OF       188	  1.21	 4.00	-1.20	 3.58	-150
+result/process_PfHDAC1/10/000000016.mol2	C8H15N3OF       188	  1.21	 4.11	 0.65	 3.58	-150
+result/process_PfHDAC1/10/000000017.mol2	C13H18NO2       220	 -0.20	 4.01	-0.44	 2.35	-150
+result/process_PfHDAC1/10/000000018.mol2	C9H13N2O        165	 -0.19	 4.47	-1.44	14.20	-150
+result/process_PfHDAC1/10/000000019.mol2	C13H15N2O3      247	 -0.06	 4.09	-2.74	 3.58	-20
+result/process_PfHDAC1/10/000000020.mol2	C13H15N2O3      247	 -0.06	 4.09	-2.83	 3.58	-20
+result/process_PfHDAC1/10/000000021.mol2	C13H15N2O3      247	 -0.06	 4.20	-1.52	 3.58	-20
+result/process_PfHDAC1/10/000000022.mol2	C13H15N2O3      247	 -0.06	 4.02	-2.93	 3.58	-20
+result/process_PfHDAC1/10/000000023.mol2	C13H15N2O3      247	 -0.06	 4.00	-3.49	 3.58	-20
+result/process_PfHDAC1/10/000000024.mol2	C8H15N3OBr      249	  1.69	 4.25	-0.03	 3.58	-150
+result/process_PfHDAC1/10/000000025.mol2	C8H15N3OBr      249	  1.69	 4.18	-1.04	 3.58	-150
+result/process_PfHDAC1/10/000000026.mol2	C8H15N3OBr      249	  1.69	 4.17	-1.50	 3.58	-170
+result/process_PfHDAC1/10/000000027.mol2	C11H14NO2       192	  0.18	 4.07	-0.64	16.20	-150
+result/process_PfHDAC1/10/000000028.mol2	C17H21N3O4      331	  0.54	 4.62	-6.22	 3.58	-160
+result/process_PfHDAC1/10/000000029.mol2	C17H21N3O4      331	  0.54	 4.63	-6.18	 3.58	-160
+result/process_PfHDAC1/10/000000030.mol2	C17H21N3O4      331	  0.54	 4.71	-5.76	 3.58	-160
+result/process_PfHDAC1/10/000000031.mol2	C8H12N3OS       198	  0.40	 4.06	-1.81	 2.22	-150
+result/process_PfHDAC1/10/000000032.mol2	C8H12N3OS       198	  0.40	 4.18	-0.91	 2.22	-150
+result/process_PfHDAC1/10/000000033.mol2	C8H12N3OS       198	  0.40	 4.17	-0.72	 2.22	-150
+result/process_PfHDAC1/10/000000034.mol2	C8H12N3OS       198	  0.40	 4.17	-0.97	 2.22	-150
